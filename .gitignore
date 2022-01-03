@@ -1,0 +1,7 @@
+# exclude all hidden directories from data-script repositories
+# thus, will exclude .<data>.yml directories, with potentially large files
+# data-script repositories thus only contain _instructions_, not _output_
+.*
+
+# make sure this .gitignore file is included in the repository
+!/.gitignore
