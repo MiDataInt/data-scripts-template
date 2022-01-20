@@ -1,0 +1,9 @@
+# user server.yml to set variables and values common to all data scripts
+# the format matches <data>.yml or <MDI_DIR>/config/stage1-pipelines.yml
+# all sections, and this file, are optional 
+
+# variables:
+#   VAR_NAME: value
+# shared:
+#   optionFamily:
+#     option: value
