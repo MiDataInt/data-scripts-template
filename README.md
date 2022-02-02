@@ -9,12 +9,10 @@ Data analysis in the MDI is separated into
 [two stages of code execution](https://midataint.github.io/docs/analysis-flow/) 
 called Stage 1 HPC **pipelines** and Stage 2 web applications (i.e., **apps**).
 Collectively, pipelines and apps are referred to as **tools**.
-Please read the [MDI documentation](https://midataint.github.io/) for 
-more information.
 
 ## Repository contents
 
-This repository carries a simple template to create a folder
+This repository carries a template to create a folder
 intended to carry a **collection of Stage 1 Pipeline data scripts**, 
 i.e., <code>\<data\>.yml</code> files, a.k.a. job configuration scripts. 
 
